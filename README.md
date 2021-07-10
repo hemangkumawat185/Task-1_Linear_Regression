@@ -1,2 +1,1 @@
-#Task-1_Linear_Regression
-The Sparks Foundation Tasks
+#The-Sparks-Foundation-Tasks
